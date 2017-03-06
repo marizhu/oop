@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1488735280 source:j:\нно\atd\main.cpp
+	<clocale>
+	<windows.h>
+	<iomanip>
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+
+1488800042 source:f:\нно\atd\main.cpp
+	<clocale>
+	<windows.h>
+	<iomanip>
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<conio.h>
+
